@@ -1,0 +1,3 @@
+com/hasanain/stupidserver/StupidServerApplication.java
+ com.hasanain.stupidserver.StupidServerApplication
+ com.hasanain.stupidserver.StupidServerApplication$StupidGuy
